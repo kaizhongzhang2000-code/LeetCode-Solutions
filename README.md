@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
+| [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
 |  |
@@ -25,4 +27,12 @@
 |  |
 | ------- |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+## Hash Table
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
