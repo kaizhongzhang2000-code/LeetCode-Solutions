@@ -18,10 +18,10 @@ class Solution {
         }
         ListNode traverse = head;
         ListNode firstNode = head;
+        ListNode nextNode;
         int processed = 0;
         while(processed + k <= length){
             ListNode holder = null;
-            ListNode nextNode;
             ListNode firstNodeHolder = traverse;
             for(int i = 0; i < k; i++){
                 nextNode = traverse.next;
