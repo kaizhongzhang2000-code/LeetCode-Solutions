@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
