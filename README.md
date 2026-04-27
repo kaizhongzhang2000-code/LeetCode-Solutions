@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
