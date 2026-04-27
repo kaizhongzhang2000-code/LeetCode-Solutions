@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
@@ -24,6 +25,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
@@ -82,6 +84,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Divide and Conquer
