@@ -36,6 +36,7 @@
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Design
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
