@@ -1,11 +1,20 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        List<Integer> sorted = new ArrayList<>();
-        for(int[] row : matrix){
-            for(int num : row){
-                sorted.add(num);
+        int total = matrix.length * matrix[0].length;
+        int left = 0;
+        int right = total - 1;
+        while(left <= right){
+            int mid = (left + right) / 2;
+            int row = mid / matrix[0].length;
+            int col = mid % matrix[0].length;
+            if(matrix[row][col] < target){
+                left = mid + 1;
+            } else if(matrix[row][col] > target) {
+                right = mid - 1;
+            } else{
+                return true;
             }
         }
-        return Collections.binarySearch(sorted, target) >= 0;
+        return false;
     }
 }
