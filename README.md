@@ -5,6 +5,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -181,8 +182,10 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
