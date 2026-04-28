@@ -2,7 +2,7 @@ class Solution {
     public int change(int amount, int[] coins) {
         int[][] memo = new int[amount + 1][coins.length];
         Arrays.fill(memo[0], 1);
-        Arrays.sort(coins);
+        //Arrays.sort(coins);
         for(int i = 1; i <= amount; i++){
             int count = 0;
             for(int j = 0; j < coins.length; j++){
