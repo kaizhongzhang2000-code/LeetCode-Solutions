@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -181,6 +182,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
