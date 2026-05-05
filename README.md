@@ -18,6 +18,7 @@
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1028-interval-list-intersections](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Tree
 |  |
 | ------- |
@@ -200,4 +204,8 @@
 | ------- |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
