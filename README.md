@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
