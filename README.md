@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -173,6 +175,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
