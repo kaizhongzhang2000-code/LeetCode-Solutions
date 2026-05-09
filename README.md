@@ -55,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Doubly-Linked List
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -187,6 +190,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
