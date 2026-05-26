@@ -51,6 +51,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 ## Linked List
 |  |
@@ -131,6 +134,7 @@
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Breadth-First Search
 |  |
