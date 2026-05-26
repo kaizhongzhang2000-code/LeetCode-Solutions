@@ -22,6 +22,7 @@
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -59,6 +60,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Sorting
@@ -67,6 +69,7 @@
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Hash Table
@@ -193,6 +196,7 @@
 | [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Union-Find
 |  |
