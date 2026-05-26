@@ -1,44 +1,38 @@
 class SnapshotArray {
-    int snapCount = 0;
-    Map<Integer, List<Integer>> snapShotIndex = new HashMap<>();
-    List<Map<Integer, Integer>> indexToValue = new ArrayList<>();
-    Map<Integer, Integer> changes = new HashMap<>();
+    private final int size;
+    private int version = 0;
+    private Map<Integer, Integer> currChange = new HashMap<>();
+    private Map<Integer, List<int[]>> history = new HashMap<>();
     public SnapshotArray(int length) {
-        for(int i = 0; i < length; i++){
-            List<Integer> newList = new ArrayList<>();
-            newList.add(-1);
-            Map<Integer, Integer> newMap = new HashMap<>();
-            newMap.put(-1, 0);
-            this.snapShotIndex.put(i, newList);
-            this.indexToValue.add(newMap);
-        }
+        this.size = length;
     }
     
     public void set(int index, int val) {
-        this.changes.put(index, val);
+        this.currChange.put(index, val);
     }
     
     public int snap() {
-        for(int key : this.changes.keySet()){
-            List<Integer> indexes = this.snapShotIndex.get(key);
-            indexes.add(snapCount);
-            this.snapShotIndex.put(key, indexes);
-            Map<Integer, Integer> indexValue = indexToValue.get(key);
-            indexValue.put(snapCount, this.changes.get(key));
-            this.indexToValue.set(key, indexValue);
+        for(int i : this.currChange.keySet()){
+            List<int[]> histList = this.history.getOrDefault(i, new ArrayList<>());
+            histList.add(new int[]{this.version, currChange.get(i)});
+            this.history.put(i, histList);
         }
-        this.changes.clear();
-        snapCount++;
-        return snapCount - 1;
+        this.version++;
+        this.currChange.clear();
+        return this.version - 1;
+        
     }
     
     public int get(int index, int snap_id) {
-        List<Integer> indexList = this.snapShotIndex.get(index);
-        int targetIndex = Collections.binarySearch(indexList, snap_id);
-        if(targetIndex < 0){
-            targetIndex = -targetIndex - 2;
+        List<int[]> histList = this.history.getOrDefault(index, new ArrayList<>());
+        int pos = Collections.binarySearch(histList, new int[]{snap_id, 0}, (a, b) -> {
+            return Integer.compare(a[0], b[0]);
+        });
+        if(pos < 0){
+            pos = - pos - 2;
         }
-        return this.indexToValue.get(index).get(indexList.get(targetIndex));
+        int[] result = pos >= 0 ? histList.get(pos) : new int[]{0, 0};
+        return result[1];
     }
 }
 
