@@ -143,6 +143,7 @@
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1368-web-crawler-multithreaded](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1368-web-crawler-multithreaded) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1368-web-crawler-multithreaded](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1368-web-crawler-multithreaded) |
 ## Graph Theory
 |  |
 | ------- |
@@ -298,4 +300,5 @@
 | [1203-print-in-order](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1203-print-in-order) |
 | [1209-design-bounded-blocking-queue](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1209-design-bounded-blocking-queue) |
 | [1340-the-dining-philosophers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1340-the-dining-philosophers) |
+| [1368-web-crawler-multithreaded](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1368-web-crawler-multithreaded) |
 <!---LeetCode Topics End-->
