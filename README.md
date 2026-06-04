@@ -33,6 +33,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1447-jump-game-iv](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
+| [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,4 +309,8 @@
 | [1209-design-bounded-blocking-queue](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1209-design-bounded-blocking-queue) |
 | [1340-the-dining-philosophers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1340-the-dining-philosophers) |
 | [1368-web-crawler-multithreaded](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1368-web-crawler-multithreaded) |
+## Trie
+|  |
+| ------- |
+| [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
