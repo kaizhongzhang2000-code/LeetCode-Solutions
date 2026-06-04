@@ -31,6 +31,7 @@
 | [1028-interval-list-intersections](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1447-jump-game-iv](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -68,6 +69,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 ## Hash Table
 |  |
