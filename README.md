@@ -16,6 +16,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
