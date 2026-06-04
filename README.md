@@ -35,6 +35,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1447-jump-game-iv](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -84,6 +85,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Union-Find
 |  |
 | ------- |
