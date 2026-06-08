@@ -39,6 +39,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Hash Table
 |  |
 | ------- |
