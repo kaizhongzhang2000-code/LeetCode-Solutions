@@ -23,6 +23,7 @@
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -59,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0912-random-pick-with-weight](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
@@ -71,6 +73,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -82,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
