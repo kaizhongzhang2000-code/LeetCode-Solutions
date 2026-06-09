@@ -37,6 +37,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1447-jump-game-iv](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1466-jump-game-v) |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
@@ -125,6 +126,7 @@
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -255,6 +259,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,4 +345,8 @@
 |  |
 | ------- |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
