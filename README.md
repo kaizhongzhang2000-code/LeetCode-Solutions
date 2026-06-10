@@ -40,6 +40,7 @@
 | [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
@@ -67,6 +68,7 @@
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Dynamic Programming
 |  |
@@ -200,6 +202,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Counting
 |  |
 | ------- |
@@ -372,4 +376,16 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Ordered Set
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
