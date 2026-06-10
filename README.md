@@ -89,6 +89,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -112,6 +113,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1447-jump-game-iv](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1447-jump-game-iv) |
@@ -126,6 +128,7 @@
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
 | [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
@@ -166,6 +169,7 @@
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -362,6 +366,7 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Data Stream
 |  |
