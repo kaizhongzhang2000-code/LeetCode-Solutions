@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1249-snapshot-array) |
@@ -160,6 +161,7 @@
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0871-keys-and-rooms](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -348,6 +351,7 @@
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Data Stream
 |  |
