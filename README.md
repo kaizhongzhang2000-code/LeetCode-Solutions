@@ -159,6 +159,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -264,6 +265,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
