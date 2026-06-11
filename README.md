@@ -134,6 +134,7 @@
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -174,6 +175,7 @@
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
@@ -188,6 +190,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0871-keys-and-rooms](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
@@ -235,6 +238,7 @@
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0871-keys-and-rooms](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
@@ -312,6 +316,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1722-throne-inheritance](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1722-throne-inheritance) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -324,6 +329,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
