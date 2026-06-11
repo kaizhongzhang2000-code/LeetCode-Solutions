@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -209,6 +211,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
