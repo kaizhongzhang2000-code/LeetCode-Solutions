@@ -50,6 +50,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1023-time-based-key-value-store](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -212,6 +215,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 ## Merge Sort
@@ -378,6 +382,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1582-design-browser-history](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Binary Indexed Tree
 |  |
