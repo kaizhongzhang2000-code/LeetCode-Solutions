@@ -1,16 +1,14 @@
 class DiningPhilosophers {
-    private final Semaphore s0 = new Semaphore(1);
-    private final Semaphore s1 = new Semaphore(0);
-    private final Semaphore s2 = new Semaphore(0);
-    private final Semaphore s3 = new Semaphore(0);
-    private final Semaphore s4 = new Semaphore(0);
+    private final Semaphore fork = new Semaphore(4);
+    private Lock lock = new ReentrantLock();
+    private final Condition[] conditions = new Condition[5];
     private final Map<Integer, Semaphore> semaphoreMap = new HashMap<>();
+    boolean[] available = new boolean[5];
     public DiningPhilosophers() {
-        this.semaphoreMap.put(0, s0);
-        this.semaphoreMap.put(1, s1);
-        this.semaphoreMap.put(2, s2);
-        this.semaphoreMap.put(3, s3);
-        this.semaphoreMap.put(4, s4);
+         for(int i = 0; i < 5; i++){
+             conditions[i] = lock.newCondition();
+         }
+         Arrays.fill(available, true);
     }
 
     // call the run() method of any runnable to execute its code
@@ -20,17 +18,31 @@ class DiningPhilosophers {
                            Runnable eat,
                            Runnable putLeftFork,
                            Runnable putRightFork) throws InterruptedException {
-        Semaphore semaphore = this.semaphoreMap.get(philosopher);
-        semaphore.acquire();
+        fork.acquire();
+        lock.lock();
         try {
-            pickLeftFork.run();
-            pickRightFork.run();
+            if(available[philosopher]){
+                available[philosopher] = false;
+                pickLeftFork.run();
+            } else {
+                conditions[philosopher].await();
+            }
+            if(available[(philosopher + 1) % 5]){
+                available[(philosopher + 1) % 5] = false;
+                pickRightFork.run();
+            } else {
+                conditions[(philosopher + 1) % 5].await();
+            }
             eat.run();
             putLeftFork.run();
+            available[philosopher] = true;
+            conditions[philosopher].signalAll();
             putRightFork.run();
+            available[(philosopher + 1) % 5] = true;
+            conditions[(philosopher + 1) % 5].signalAll(); 
         } finally {
-            Semaphore nextSemaphore = this.semaphoreMap.get((philosopher + 1) % 5);
-            nextSemaphore.release();
+            lock.unlock();
+            fork.release();
         }
     }
 }
