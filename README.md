@@ -258,6 +258,7 @@
 | [1368-web-crawler-multithreaded](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1368-web-crawler-multithreaded) |
 | [1722-throne-inheritance](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1722-throne-inheritance) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [1722-throne-inheritance](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1722-throne-inheritance) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
