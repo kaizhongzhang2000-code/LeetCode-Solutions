@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
