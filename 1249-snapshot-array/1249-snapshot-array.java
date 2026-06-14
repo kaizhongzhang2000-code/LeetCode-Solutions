@@ -25,14 +25,34 @@ class SnapshotArray {
     
     public int get(int index, int snap_id) {
         List<int[]> histList = this.history.getOrDefault(index, new ArrayList<>());
-        int pos = Collections.binarySearch(histList, new int[]{snap_id, 0}, (a, b) -> {
-            return Integer.compare(a[0], b[0]);
-        });
+        int pos = binarySearch(histList, new int[]{snap_id, 0});
         if(pos < 0){
             pos = - pos - 2;
         }
-        int[] result = pos >= 0 ? histList.get(pos) : new int[]{0, 0};
+        int[] result = pos >= 0 && histList.size() > 0 ? histList.get(pos) : new int[]{0, 0};
         return result[1];
+    }
+
+    public int binarySearch(List<int[]> histList, int[] target){
+        int left = 0;
+        int right = histList.size() - 1;
+        while(left <= right){
+            int pivot = (left + right) / 2;
+            int id = histList.get(pivot)[0];
+            if(left == right){
+                if(id <= target[0]){
+                    return left;
+                } else {
+                    return left - 1;
+                }
+            }
+            if(id >= target[0]){
+                right = pivot;
+            } else {
+                left = pivot + 1;
+            }
+        }
+        return left;
     }
 }
 
