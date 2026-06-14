@@ -6,12 +6,6 @@ class Solution {
         }
         Arrays.sort(allInfo, (a, b) -> {
             int compare = Integer.compare(a[1], b[1]);
-            if(compare == 0){
-                compare = Integer.compare(b[0], a[0]);
-            }
-            if(compare == 0){
-                compare = Integer.compare(a[2], b[2]);
-            }
             return compare;
         });
 
