@@ -12,13 +12,7 @@ class Solution {
         int[] dp = new int[allInfo.length];
         int max = 0;
         for(int i = 0; i < allInfo.length; i++){
-            int lastIndex = i - 1;
-            while(lastIndex >= 0){
-                if(allInfo[lastIndex][1] <= allInfo[i][0]){
-                    break;
-                }
-                lastIndex--;
-            }
+            int lastIndex = binarySearch(allInfo, allInfo[i][0]);
             int prevMax = 0;
             if(lastIndex >= 0){
                 prevMax = dp[lastIndex];
@@ -32,5 +26,23 @@ class Solution {
         }
         return max;
         
+    }
+
+    public int binarySearch(int[][] allInfo, int target){
+        int left = 0;
+        int right = allInfo.length - 1;
+        while(left < right){
+            int pivot = (left + right) / 2;
+
+        if(allInfo[pivot][1] > target){
+            right = pivot - 1;
+        } else {
+            left = pivot + 1;
+        }
+        }
+        if(allInfo[left][1] > target){
+            return left - 1;
+        }
+        return left;
     }
 }
