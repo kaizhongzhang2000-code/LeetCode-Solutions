@@ -46,6 +46,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3363-most-frequent-ids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3363-most-frequent-ids) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4294-maximize-fixed-points-after-deletions](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4294-maximize-fixed-points-after-deletions) |
@@ -137,6 +138,7 @@
 | [1722-throne-inheritance](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1722-throne-inheritance) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3363-most-frequent-ids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3363-most-frequent-ids) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Design
 |  |
@@ -235,6 +237,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3363-most-frequent-ids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3363-most-frequent-ids) |
 ## Merge Sort
 |  |
 | ------- |
@@ -423,4 +426,5 @@
 |  |
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3363-most-frequent-ids](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3363-most-frequent-ids) |
 <!---LeetCode Topics End-->
