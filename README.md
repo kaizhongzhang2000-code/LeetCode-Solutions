@@ -18,6 +18,7 @@
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0174-dungeon-game) |
@@ -86,6 +87,7 @@
 | [0044-wildcard-matching](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -127,6 +129,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +192,7 @@
 | [0076-minimum-window-substring](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -288,6 +292,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -372,6 +377,7 @@
 | [0078-subsets](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -412,6 +418,7 @@
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
