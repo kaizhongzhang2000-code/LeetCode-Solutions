@@ -23,6 +23,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -198,6 +199,7 @@
 | [0127-word-ladder](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0271-encode-and-decode-strings](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -229,6 +231,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -384,6 +387,7 @@
 | [0079-word-search](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -426,6 +430,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0588-design-in-memory-file-system](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [3376-longest-common-suffix-queries](https://github.com/kaizhongzhang2000-code/LeetCode-Solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Data Stream
